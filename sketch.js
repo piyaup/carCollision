@@ -7,7 +7,7 @@ function setup() {
   wall.shapeColor = 'red';
   car.shapeColor = 'blue';
 }
-/* thisis draw function */
+/* thisis draw function  from piya*/
 
 function draw() {
   background(0,0,0); 
