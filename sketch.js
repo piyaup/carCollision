@@ -7,6 +7,7 @@ function setup() {
   wall.shapeColor = 'red';
   car.shapeColor = 'blue';
 }
+/* thisis draw function */
 
 function draw() {
   background(0,0,0); 
